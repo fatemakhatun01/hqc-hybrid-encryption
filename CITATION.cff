@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "HQC-Based Hybrid Encryption Implementation"
+message: "If you use this software, please cite the associated research work."
+type: software
+
+authors:
+  - family-names: "Khatun"
+    given-names: "Fatema"
+  - family-names: "Morozov"
+    given-names: "Kirill"
+
+repository-code: "https://github.com/fatemakhatun01/hqc-hybrid-encryption"
+date-released: 2026-10-19
