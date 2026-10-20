@@ -1,0 +1,9 @@
+
+PK bytes: 2241
+SK bytes: 2321
+CT bytes: 4433
+SS bytes: 32
+Generating KEM keypair...
+Encapsulating...
+Decapsulating...
+SUCCESS: shared secrets match

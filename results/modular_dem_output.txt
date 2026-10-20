@@ -1,0 +1,11 @@
+PK bytes: 2241
+SK bytes: 2321
+CT bytes: 4433
+SS bytes: 32
+Prime p: 4294967291
+Generating KEM keypair...
+Encapsulating to get CT and SS1...
+Decapsulating CT to recover SS2...
+Original message m1: 0000000100000002000000030000000400000064000000c80000012c00000190
+Recovered message m2: 0000000100000002000000030000000400000064000000c80000012c00000190
+SUCCESS: modular decrypted message matches original message
